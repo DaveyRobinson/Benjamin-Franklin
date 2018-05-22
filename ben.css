@@ -1,0 +1,32 @@
+#subtitle {
+  font-family: brush script mt, cursive;
+}
+
+#adjectives {
+  font-family: impact, fantasy;
+}
+
+#picture {
+  width: 50%;
+}
+
+#signature {
+  padding-right: 400px;
+  size: small;
+  height: 125px;
+  width: 65%;
+}
+
+hr {
+  width: 75%;
+}
+
+body {
+  background-color: black;
+}
+
+footer{
+  background-color: white;
+  padding-top: 10px;
+  border-radius: 10px;
+}
